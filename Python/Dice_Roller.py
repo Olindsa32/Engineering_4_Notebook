@@ -1,5 +1,6 @@
 # Automatic Dice Roller
 # Written by Owen
+# 9/13/21
 from random import randint
 print("Automatic Dice Roller")
 def dice_roller():
