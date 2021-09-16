@@ -24,13 +24,16 @@ Spicy version:
 
 ![Screenshot 2021-09-10 3 18 38 PM](https://user-images.githubusercontent.com/89222808/133513750-727cdb6c-1c27-4c8a-83d4-50ea9136a221.png)
 
-### Wiring
-
-N/A
-
 ### Reflection
 
 This assignment was relatively simple, but was challenging because I had not coded in Python for several months. I learned that I could import parts of toolboxes without importing the entire thing, but that changes the syntax of how I call the function later. I also learned about using a while loop to control whether a user wants to exit the program. For the spicy version, I needed to use nested loops. Python determines what is inside a loop by the indent level of each line of text, rather than brackets like some other coding styles. That means I need to be really careful with my tabs!
 
 ## Python_Calculator
+
+### Assignment Description
+
 This assignment asked us to input two numbers and output the sum, difference, product, quotient, and modulo.
+
+### Evidence
+
+### Reflection
