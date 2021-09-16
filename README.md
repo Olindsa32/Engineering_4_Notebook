@@ -3,7 +3,7 @@ Engineering 4 Repository for Owen
 
 ## Table of Contents
 * [Dice Roller Assignment](#DiceRollerAssignment)
-* [Python_Calculator Assignment](#PythonCalculatorAssignment)
+* [Python Calculator Assignment](#PythonCalculatorAssignment)
 ---
 
 ## Python_Dice_Roller
