@@ -39,3 +39,13 @@ This assignment asked us to input two numbers and output the sum, difference, pr
 ### Reflection
 
 I did not have a whole lot of trouble on this assignment. I learned some new things on python like the input and return commands that will be useful for the rest of my assignments. The way I did it I wrote each different equation on each line and assigned them all a different number. Then when I went to print I call my equation function and adding the number at the end to signify the type of equation. One thing that gave me trouble at the end was that I had to turn the answer to each one into a string to get them to print, before I did that it was saying that 5+7 was 57 and stuff like that.
+
+## Python_Quadratic_Solver
+
+### Assignment Description
+
+This assignment had me entering the 3 coefficients in a quadratic equation and asked to get back the roots if they were real and to return that the roots were not real if they weren't real. 
+
+### Evidence
+
+### Reflection
