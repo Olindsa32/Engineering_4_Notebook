@@ -37,3 +37,5 @@ This assignment asked us to input two numbers and output the sum, difference, pr
 ![Python_Calculator](https://user-images.githubusercontent.com/61475474/134040487-b0c4ce63-e29c-4fc6-af72-4e9fc6cc00a9.png)
 
 ### Reflection
+
+I did not have a whole lot of trouble on this assignment. I learned some new things on python like the input and return commands that will be useful for the rest of my assignments. The way I did it I wrote each different equation on each line and assigned them all a different number. Then when I went to print I call my equation function and adding the number at the end to signify the type of equation. One thing that gave me trouble at the end was that I had to turn the answer to each one into a string to get them to print, before I did that it was saying that 5+7 was 57 and stuff like that.
