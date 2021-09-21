@@ -4,6 +4,7 @@ Engineering 4 Repository for Owen
 ## Table of Contents
 * [Python Dice Roller](#Python_Dice_Roller)
 * [Python Calculator](#Python_Calculator)
+* [Python Quadratic Solver](#Python_Quadratic_Solver)
 ---
 
 ## Python_Dice_Roller
