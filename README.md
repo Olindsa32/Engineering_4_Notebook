@@ -53,3 +53,4 @@ This assignment had me entering the 3 coefficients in a quadratic equation and a
 
 ### Reflection
 
+I made 3 variables that the user could enter for the three coefficients in the equation, then I had to add a discriminate variable to check for negative or positive. If it was negative I know that the roots would be imaginary so I just had it says no roots and ask if you wanted to go again. If it was positive I would run the rest of the quad formula on the discriminant and show the output and ask to run again. A hard part of this was that to put the two roots in different lines I had to turn them into a list and I learned how to do that.
