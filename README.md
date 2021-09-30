@@ -60,6 +60,7 @@ I made 3 variables that the user could enter for the three coefficients in the e
 
 ### Assignment Description
 
+
 ### Evidence
 
 ![strings+loopsworks](https://user-images.githubusercontent.com/61475474/135492434-1cdadf49-3062-4112-96cb-8b4cdbbe6adb.png)
