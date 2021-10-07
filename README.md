@@ -60,6 +60,7 @@ I made 3 variables that the user could enter for the three coefficients in the e
 
 ### Assignment Description
 
+The reason for this assignment was to learn how to use the split function, arrays, lists, and loops. We wrote a sentence as an input and then seperate each letters with a line break between each letter, and then add a dash in between every word in the sentence and have an extra dash at the end.
 
 ### Evidence
 
