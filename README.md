@@ -67,3 +67,5 @@ The reason for this assignment was to learn how to use the split function, array
 ![strings+loopsworks](https://user-images.githubusercontent.com/61475474/135492434-1cdadf49-3062-4112-96cb-8b4cdbbe6adb.png)
 
 ### Reflection
+
+I had a lot of help on this assignment from other people in the class. I did not understand the concept very well until other people walked me through their code. I had to learn how to use the split function and split the input into each word then call a function that splits all my words.
