@@ -2,9 +2,9 @@
 #Written by Owen Lindsay
 #10.19.2021
 
-word = input("Player 1 pick a word")
-print ("\n" * 50)
-length = len(word)
+word = input("Player 1 pick a word") # asks the first player to pick a word to be guessed
+print ("\n" * 50) # clears the screen
+length = len(word) # defines the variable length using the command len of variable word from line 5
 emptyString = ("_" * length)
 correctGuess = ""
 missedGuess = ""
