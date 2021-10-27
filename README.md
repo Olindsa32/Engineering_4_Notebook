@@ -1,6 +1,9 @@
-# Engineering_4_Notebook
+# Engineering 4 Notebook
 Engineering 4 Repository for Owen
 
+
+
+# Python Section
 ## Table of Contents
 * [Python Dice Roller](#Python_Dice_Roller)
 * [Python Calculator](#Python_Calculator)
@@ -71,7 +74,7 @@ The reason for this assignment was to learn how to use the split function, array
 
 I had a lot of help on this assignment from other people in the class. I did not understand the concept very well until other people walked me through their code. I had to learn how to use the split function and split the input into each word then call a function that splits all my words.
 
-## Python_MSP
+## Python MSP
 
 ### Assignment Description
 
@@ -84,3 +87,20 @@ This coding assignment makes you use input commands, functions, variables, and a
 ### Reflection
 
 I used a lot of Max Tyree's code on the assignment (mtyree18 on github). I was having trouble understanding a lot of the neccesary parts of the code so I worked through his code with him so he could help me understand each piece of it. It was important to understand areas because the most confusing part of the whole thing was trying to implant the correct guesses into the empty string of ______ that shows how many letters the original word is. The was I did it was by making the empty string equal to empty before the correct guess, then the letter, then the rest of the word that comes afterwards.
+---
+
+
+
+# Onshape Section
+## Table of Contents
+* [Designing a Skateboard](#Onshape_Skateboard)
+---
+
+## Onshape Skateboard
+
+### Assignment Description
+
+### Evidence
+
+### Reflection
+
