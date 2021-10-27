@@ -74,7 +74,7 @@ The reason for this assignment was to learn how to use the split function, array
 
 I had a lot of help on this assignment from other people in the class. I did not understand the concept very well until other people walked me through their code. I had to learn how to use the split function and split the input into each word then call a function that splits all my words.
 
-## Python MSP
+## Python_MSP
 
 ### Assignment Description
 
@@ -96,11 +96,17 @@ I used a lot of Max Tyree's code on the assignment (mtyree18 on github). I was h
 * [Designing a Skateboard](#Onshape_Skateboard)
 ---
 
-## Onshape Skateboard
+## Onshape_Skateboard
 
 ### Assignment Description
 
+This Onshape assignment was a guide to building a skateboard, we had to make the deck, baseplate, hangar, bushing, wheel, bearing and insert nuts and bolts. They gave us a guide for each individual step so we could go along and learn how to use new onshape geometry.
+
 ### Evidence
 
+![finishedSkateboard](https://user-images.githubusercontent.com/61475474/139104740-f497f141-e4bb-41dc-bb1a-45a2074306ae.png)
+
 ### Reflection
+
+This assignment wasn't very hard because everything it was showing me in the guide I already knew. One mistake I made early was making the start of the truck baseplate a part of the deck instead of a new part so when I try to add fillets and stuff with that as the merge scope it didn't work right. But I didn't find that until later because onshape tried to solve it by just merging to other things or filleting different edges. Once I noticed it I had trouble fixing it because when I changed it everything built on top of it was undone because the merge scope was changed to a new part. Once I sorted that out it was smooth sailing.
 
