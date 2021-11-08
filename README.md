@@ -92,7 +92,6 @@ This coding assignment makes you use input commands, functions, variables, and a
 ### Reflection
 
 I used a lot of Max Tyree's code on the assignment (mtyree18 on github). I was having trouble understanding a lot of the neccesary parts of the code so I worked through his code with him so he could help me understand each piece of it. It was important to understand areas because the most confusing part of the whole thing was trying to implant the correct guesses into the empty string of ______ that shows how many letters the original word is. The was I did it was by making the empty string equal to empty before the correct guess, then the letter, then the rest of the word that comes afterwards.
----
 
 
 
