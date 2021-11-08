@@ -1,15 +1,22 @@
 # Engineering 4 Notebook
 Engineering 4 Repository for Owen
 
+## Table of Contents
+* [Python Section](#Python_Section)
+* [Onshape Section](#Onshape_Section)
+---
 
 
-# Python Section
+
+# Python_Section
 ## Table of Contents
 * [Python Dice Roller](#Python_Dice_Roller)
 * [Python Calculator](#Python_Calculator)
 * [Python Quadratic Solver](#Python_Quadratic_Solver)
 * [Python Strings and Loops](#Python_Strings_and_Loops)
 * [Python MSP](#Python_MSP)
+* [Onshape Skateboard](#Onshape_Skateboard)
+* [Onshape Duck and Helicopter](#Onshape_Duck_and_Helicopter)
 ---
 
 ## Python_Dice_Roller
@@ -91,7 +98,7 @@ I used a lot of Max Tyree's code on the assignment (mtyree18 on github). I was h
 
 
 
-# Onshape Section
+# Onshape_Section
 ## Table of Contents
 * [Designing a Skateboard](#Onshape_Skateboard)
 ---
@@ -109,4 +116,17 @@ This Onshape assignment was a guide to building a skateboard, we had to make the
 ### Reflection
 
 This assignment wasn't very hard because everything it was showing me in the guide I already knew. One mistake I made early was making the start of the truck baseplate a part of the deck instead of a new part so when I try to add fillets and stuff with that as the merge scope it didn't work right. But I didn't find that until later because onshape tried to solve it by just merging to other things or filleting different edges. Once I noticed it I had trouble fixing it because when I changed it everything built on top of it was undone because the merge scope was changed to a new part. Once I sorted that out it was smooth sailing.
+
+## Onshape_Duck_and_Helicopter
+
+### Assignment Description
+
+
+
+### Evidence
+
+
+
+### Reflection
+
 
