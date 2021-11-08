@@ -15,8 +15,6 @@ Engineering 4 Repository for Owen
 * [Python Quadratic Solver](#Python_Quadratic_Solver)
 * [Python Strings and Loops](#Python_Strings_and_Loops)
 * [Python MSP](#Python_MSP)
-* [Onshape Skateboard](#Onshape_Skateboard)
-* [Onshape Duck and Helicopter](#Onshape_Duck_and_Helicopter)
 ---
 
 ## Python_Dice_Roller
@@ -101,6 +99,7 @@ I used a lot of Max Tyree's code on the assignment (mtyree18 on github). I was h
 # Onshape_Section
 ## Table of Contents
 * [Designing a Skateboard](#Onshape_Skateboard)
+* [Onshape Legos](#Onshape_Duck_and_Helicopter)
 ---
 
 ## Onshape_Skateboard
