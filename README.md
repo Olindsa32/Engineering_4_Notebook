@@ -14,7 +14,7 @@ Engineering 4 Repository for Owen
 * [Python Calculator](#Python_Calculator)
 * [Python Quadratic Solver](#Python_Quadratic_Solver)
 * [Python Strings and Loops](#Python_Strings_and_Loops)
-* [Python MSP](#Python_MSP)
+* [Python Hangman](#Python_MSP)
 ---
 
 ## Python_Dice_Roller
