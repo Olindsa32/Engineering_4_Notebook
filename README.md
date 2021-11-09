@@ -119,12 +119,13 @@ This assignment wasn't very hard because everything it was showing me in the gui
 
 ### Assignment Description
 
-
+This assignment wanted us to create a lego block and use configurations to essentially create 54 different usable lego blocks after only designing one. Then made you design a simple duck and put it in a drawing and create an instruction booklet to show how to use various features inside the drawings, including BOMs and different POVs. Then we used our created blocks to create our own lego set and instruction booklet
 
 ### Evidence
 
-
+![onshapeDuck](https://user-images.githubusercontent.com/61475474/140966410-5bbb7694-fa55-4c22-8a22-59767af13001.png)
+![onshapeHeli](https://user-images.githubusercontent.com/61475474/140966210-96eb8d92-c6da-4ed0-9c94-ae7fc5661ecf.png)
 
 ### Reflection
 
-
+This assignment was supposed to be simple while highlighting how to use configurations and other Onshape features that the guide worked you through. One unique thing I learned was when we moved it down from 2x2 to 1x2. We had to remove the center hole we had been using to lock the other legos in the bottom so we used a configuration, instead of changing the size which is what I knew how to do we just suppressed the whole feature to remove it. When I made my helicopter one thing that made it easier was putting 5 to 10 legos together and copying them so I could paste them together and group them. That was essentially letting me snap 10 pieces together which I had to do a lot across the shell of the helicopter.
