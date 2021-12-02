@@ -106,6 +106,12 @@ https://user-images.githubusercontent.com/61475474/144466595-1a56556b-89f2-47ae-
 
 ### Wiring
 
+![20211202_115359](https://user-images.githubusercontent.com/61475474/144467345-574618f6-2659-4103-8a1e-2f3fe5cfce0f.jpg)
+
+### Reflection
+
+This assignment was easy to do after I took the starting stuff that was in the canvas assignment and searched up how to use the GPIO assignments. I had two small problems, one of them was that when I added a second LED, I forgot to setup the second output pin at first. The second problem was that I was writing the sleep command as time.sleep instead of just sleep.
+
 
 
 # Onshape_Section
