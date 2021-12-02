@@ -15,6 +15,7 @@ Engineering 4 Repository for Owen
 * [Python Quadratic Solver](#Python_Quadratic_Solver)
 * [Python Strings and Loops](#Python_Strings_and_Loops)
 * [Python Hangman](#Python_MSP)
+* [Python Blink](#Python_Blink)
 ---
 
 ## Python_Dice_Roller
@@ -92,6 +93,20 @@ This coding assignment makes you use input commands, functions, variables, and a
 ### Reflection
 
 I used a lot of Max Tyree's code on the assignment (mtyree18 on github). I was having trouble understanding a lot of the neccesary parts of the code so I worked through his code with him so he could help me understand each piece of it. It was important to understand areas because the most confusing part of the whole thing was trying to implant the correct guesses into the empty string of ______ that shows how many letters the original word is. The was I did it was by making the empty string equal to empty before the correct guess, then the letter, then the rest of the word that comes afterwards.
+
+## Python_Blink
+
+### Assignment Description
+
+This assignment was the first one done through raspberry pi and made us code it in Python and then send it into github. It had us blink two LEDs. When one is on, the other is off. We also had to print which one was on and off.
+
+### Evidence
+
+https://user-images.githubusercontent.com/61475474/144466595-1a56556b-89f2-47ae-a850-1d13e503636b.mp4
+
+### Wiring
+
+![20211202_114550](https://user-images.githubusercontent.com/61475474/144466116-783a134f-b2fb-4265-a54d-f7f7008db7ba.jpg)
 
 
 
