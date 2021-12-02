@@ -106,8 +106,6 @@ https://user-images.githubusercontent.com/61475474/144466595-1a56556b-89f2-47ae-
 
 ### Wiring
 
-![20211202_114550](https://user-images.githubusercontent.com/61475474/144466116-783a134f-b2fb-4265-a54d-f7f7008db7ba.jpg)
-
 
 
 # Onshape_Section
