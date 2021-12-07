@@ -16,6 +16,7 @@ Engineering 4 Repository for Owen
 * [Python Strings and Loops](#Python_Strings_and_Loops)
 * [Python Hangman](#Python_MSP)
 * [Python Blink](#Python_Blink)
+* [Python Shutdown](#Python_Shutdown)
 ---
 
 ## Python_Dice_Roller
@@ -111,6 +112,24 @@ https://user-images.githubusercontent.com/61475474/144466595-1a56556b-89f2-47ae-
 ### Reflection
 
 This assignment was easy to do after I took the starting stuff that was in the canvas assignment and searched up how to use the GPIO assignments. I had two small problems, one of them was that when I added a second LED, I forgot to setup the second output pin at first. The second problem was that I was writing the sleep command as time.sleep instead of just sleep.
+
+## Python_Shutdown
+
+### Assignment Description
+
+This assignment had us shutdown the raspberry pi with a pushbutton and prewritten code. Once we did that we went into a file and added the code to run this program automatically instead of having to call it and then push the button.
+
+### Evidence
+
+https://user-images.githubusercontent.com/61475474/145069841-e73c1d40-a45e-4335-85d6-fb8a26e8e25e.mp4
+
+### Wiring
+
+![20211207_112735](https://user-images.githubusercontent.com/61475474/145068672-e98d6c14-6072-4e41-8bbf-f9406403a8dd.jpg)
+
+### Reflection
+
+This assignment was easy because the code was given to me and the wiring was simple. I struggled a bit because the comments were too long so when I copied the code into raspberry pi it was running into the next line and causing errors. With the wiring I learned how simple a pushbutton is, all it does is when you press down it connects all 4 corners of the button and the wires coming from those corners. This code may be useful going forward if I just keep a button on my breadboard plugged into the same GPIO pin.
 
 
 
