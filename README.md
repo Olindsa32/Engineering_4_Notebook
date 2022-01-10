@@ -131,6 +131,13 @@ https://user-images.githubusercontent.com/61475474/145069841-e73c1d40-a45e-4335-
 
 This assignment was easy because the code was given to me and the wiring was simple. I struggled a bit because the comments were too long so when I copied the code into raspberry pi it was running into the next line and causing errors. With the wiring I learned how simple a pushbutton is, all it does is when you press down it connects all 4 corners of the button and the wires coming from those corners. This code may be useful going forward if I just keep a button on my breadboard plugged into the same GPIO pin.
 
+## Python I2C
+
+### Assignment Description
+
+This assignment had us use the accelerometer and display those numbers onto the OLED display.
+
+
 
 
 # Onshape_Section
