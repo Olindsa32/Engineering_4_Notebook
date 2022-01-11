@@ -17,6 +17,7 @@ Engineering 4 Repository for Owen
 * [Python Hangman](#Python_MSP)
 * [Python Blink](#Python_Blink)
 * [Python Shutdown](#Python_Shutdown)
+* [Python I2C](#Python_I2C)
 ---
 
 ## Python_Dice_Roller
@@ -131,11 +132,18 @@ https://user-images.githubusercontent.com/61475474/145069841-e73c1d40-a45e-4335-
 
 This assignment was easy because the code was given to me and the wiring was simple. I struggled a bit because the comments were too long so when I copied the code into raspberry pi it was running into the next line and causing errors. With the wiring I learned how simple a pushbutton is, all it does is when you press down it connects all 4 corners of the button and the wires coming from those corners. This code may be useful going forward if I just keep a button on my breadboard plugged into the same GPIO pin.
 
-## Python I2C
+## Python_I2C
 
 ### Assignment Description
 
 This assignment had us use the accelerometer and display those numbers onto the OLED display.
+
+### Evidence and Wiring
+
+![20220111_114633](https://user-images.githubusercontent.com/61475474/148986123-80f6a45e-4d30-4e17-b474-490328231e81.jpg)
+
+### Reflection
+
 
 
 
