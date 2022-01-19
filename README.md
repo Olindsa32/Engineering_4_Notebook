@@ -144,6 +144,8 @@ This assignment had us use the accelerometer and display those numbers onto the 
 
 ### Reflection
 
+I learned to use the accelerometer and connect it to the OLED display. I struggled with how to change the acceleration numbers to the format we want. I had to divide by 107 to get the numbers looking good. I also had to convert the number to a string and round it to 3 digits.
+
 
 
 
