@@ -16,15 +16,15 @@ disp.begin()
 disp.clear()
 disp.display()
 
-width = disp.width
-height = disp.height
-image = Image.new('1', (width, height))
-draw = ImageDraw.Draw(image)
+width = disp.width # Creates a variable width that is the entire width of the screen
+height = disp.height # Same thing with height
+image = Image.new('1', (width, height)) # Defines image
+draw = ImageDraw.Draw(image) # Uses image to create the draw variable
 
 while True:
-	draw.rectangle((0,0,width,height), outline=0, fill=0)
-	accel, mag = lsm303.read()
-	accel_x, accel_y, accel_z = accel
-	draw.rectangle((0,0,accel_z/8.2,64), outline=1, fill=1)
-	disp.image(image)
-	disp.display()
+	draw.rectangle((0,0,width,height), outline=0, fill=0) # Fills the screen with a giant black rectangle, essentially resetting it
+	accel, mag = lsm303.read() # Defines acceleration
+	accel_x, accel_y, accel_z = accel # Splits acceleration into X,Y,Z
+	draw.rectangle((0,0,accel_z/8.2,64), outline=1, fill=1) # Draws a rectangle that will change in size based on the Z acceleration
+	disp.image(image) # Displays the image
+	disp.display() # Puts up the display
