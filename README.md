@@ -18,6 +18,7 @@ Engineering 4 Repository for Owen
 * [Python Blink](#Python_Blink)
 * [Python Shutdown](#Python_Shutdown)
 * [Python I2C](#Python_I2C)
+* [Python_Headless_Accelerometer](#Headless_Accelerometer)
 ---
 
 ## Python_Dice_Roller
@@ -146,7 +147,19 @@ This assignment had us use the accelerometer and display those numbers onto the 
 
 I learned to use the accelerometer and connect it to the OLED display. I struggled with how to change the acceleration numbers to the format we want. I had to divide by 107 to get the numbers looking good. I also had to convert the number to a string and round it to 3 digits.
 
+## Headless_Accelerometer
 
+### Assignment Description
+
+This assignment had me measure the accleration in either X, Y, or Z plane and show it with some moving shape on my OLED screen.
+
+### Evidence and Wiring
+
+
+
+### Reflection
+
+This assignment took some learning but was relatively simple. I looked back on my I2C assignment and took that code to draw a rectangle that would take up the whole screen vertically. Then I make the horizontal size of the rectangle dependant on the Z acceleration. The way I did this was by putting the horizontal as accel_z/8.2. The 8.2 is because the maximum that the Z acceleration can be is about 1050 and I need it to fit on a 128 width screen so I divide the Z by 8.2 to make 128 the new maximum.
 
 
 
