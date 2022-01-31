@@ -153,9 +153,13 @@ I learned to use the accelerometer and connect it to the OLED display. I struggl
 
 This assignment had me measure the accleration in either X, Y, or Z plane and show it with some moving shape on my OLED screen.
 
-### Evidence and Wiring
+### Evidence
 
+https://user-images.githubusercontent.com/61475474/151847156-4ce4baf9-6b07-498b-a599-818766666bd7.mp4
 
+### Wiring
+
+![20220127_114615 (1)](https://user-images.githubusercontent.com/61475474/151845376-358acdc4-ed59-49e4-9653-c5b572857050.jpg)
 
 ### Reflection
 
