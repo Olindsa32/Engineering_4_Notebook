@@ -18,7 +18,7 @@ Engineering 4 Repository for Owen
 * [Python Blink](#Python_Blink)
 * [Python Shutdown](#Python_Shutdown)
 * [Python I2C](#Python_I2C)
-* [Python_Headless_Accelerometer](#Headless_Accelerometer)
+* [Python Headless Accelerometer](#Headless_Accelerometer)
 ---
 
 ## Python_Dice_Roller
